@@ -1,0 +1,32 @@
+{
+	"title": "Data-Types",
+	"desc": "Topics discussing the various data types available to a Python program.",
+	"icon": "Friday, March 27, 2015",
+	"video": "",
+	"topics": {
+		"strings": {
+			"title": "Strings",
+			"desc": "",
+			"image": "",
+			"markdown": "strings.md"
+		},
+		"integers": {
+			"title": "Integer",
+			"desc": "What are integers",
+			"image": "",
+			"markdown": "integers.md"
+		},
+		"bools": {
+			"title": "Boolean",
+			"desc": "What are booleans",
+			"image": "",
+			"markdown": "bools.md"
+		},
+		"floats": {
+			"title": "Float",
+			"desc": "What are floats",
+			"image": "",
+			"markdown": "floats.md"
+		}
+	}
+}

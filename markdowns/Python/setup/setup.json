@@ -1,0 +1,14 @@
+{
+	"title": "Setup",
+	"desc": "Topics discussing setting up of a Python development environment",
+	"icon": "Friday, March 27, 2015",
+	"video": "",
+	"topics": {
+		"virtualenvs": {
+			"title": "Virtual Environments",
+			"desc": "A Virtual Environment ('VENV') is a tool that helps to manage and containerize dependencies required by a project, by creating an isolated python virtual environments for the project.",
+			"image": "",
+			"markdown": "virtualenvs.md"
+		}
+	}
+}
